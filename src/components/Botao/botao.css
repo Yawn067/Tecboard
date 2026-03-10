@@ -1,0 +1,15 @@
+.btn-criar {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 120%;
+  color: #212112;
+  background-color: #17d9b1;
+  border-radius: 8px;
+  padding: 8px 16px;
+  border: none;
+}
+
+.btn-criar:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
